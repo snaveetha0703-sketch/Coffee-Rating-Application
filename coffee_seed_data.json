@@ -1,0 +1,38 @@
+
+[
+    {
+        "id": 1,
+        "name": "Espresso",
+        "description": "Strong and rich coffee.",
+        "image": "https://images.unsplash.com/photo-1510707577719-ae7c14805e3a?w=600",
+        "votes": 0
+    },
+    {
+        "id": 2,
+        "name": "Cappuccino",
+        "description": "Coffee with creamy milk foam.",
+        "image": "https://images.unsplash.com/photo-1570968915860-54d5c301fa9f?w=600",
+        "votes": 0
+    },
+    {
+        "id": 3,
+        "name": "Latte",
+        "description": "Smooth coffee mixed with milk.",
+        "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=600",
+        "votes": 0
+    },
+    {
+        "id": 4,
+        "name": "Cold Coffee",
+        "description": "Refreshing chilled coffee.",
+        "image": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?w=600",
+        "votes": 0
+    },
+    {
+        "id": 5,
+        "name": "Mocha",
+        "description": "Delicious coffee with chocolate.",
+        "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=600",
+        "votes": 0
+    }
+]

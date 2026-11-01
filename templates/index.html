@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Coffee Rating Application</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+    <h1>☕ Coffee Rating Application</h1>
+    <p>Vote for your favourite coffee!</p>
+
+    <h2>Available Coffees</h2>
+
+    <div id="coffee-list"></div>
+
+    <h2>🏆 Top Coffee Leaderboard</h2>
+
+    <div id="leaderboard"></div>
+
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+
+</body>
+</html>
